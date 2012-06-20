@@ -1,0 +1,13 @@
+Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
+[GCC 4.6.1] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter your first name: Moses
+Enter your last name: Obeng
+Enter your date of birth: 
+     Month? September
+       Day? 11
+      Year? 1990
+Moses Obeng was born on September 11, 1990
+>>> 

@@ -1,0 +1,24 @@
+Obeng Moses
+Question 1. 
+1. x			valid
+2. 56thnumber		invalid
+3. length		valid
+4. !Tayo!		invalid
+5. NUMBER		valid
+6. Android_phone1	valid
+7. this variable	valid
+
+Question 2. 
+1. a = False		boolean
+2. b = 3.7		float
+3. c = 'Alex'		string
+4. d = 7		int
+5. e = 'True'		sring
+6. f = 17		int
+7. g = '17		invalid
+8. h = True		boolean
+9. i = '3.14159'	string
+10. j = “---add---”	invalid
+
+
+

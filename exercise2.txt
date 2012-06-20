@@ -1,0 +1,18 @@
+1. b and c   				False
+2. b or c				True
+3. not a and b				True
+4. (a and b) or not c			True
+5. not b and not (a or c)		False
+6. not ((not b or not a) and c ) or a	True
+
+codes
+a = False
+b = True
+c = False
+print b and c
+print b or c
+print not a and b
+print (a and b) or not c
+print not b and not (a or c)
+print not ((not b or not a) and c ) or a
+

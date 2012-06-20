@@ -1,0 +1,7 @@
+1. b and c   				False
+2. b or c
+3. not a and b				True
+4. (a and b) or not c			
+5. not b and not (a or c)
+6. not ((not b or not a) and c ) or a
+
